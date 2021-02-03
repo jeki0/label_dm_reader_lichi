@@ -1,1 +1,1 @@
-# label_dm_reader_lichi
+# Распознование datamatrix на этикетках lichi
